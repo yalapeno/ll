@@ -1,7 +1,7 @@
 from linkedQFile import LinkedQ
 
 
-
+#degistirdim gardas burasi lolo 2
 
 
 class ParentNode:
